@@ -8489,7 +8489,7 @@
 				)
 			)
 		)
-		(property "Value" "32mhz"
+		(property "Value" "12mhz"
 			(at 359.41 45.212 90)
 			(effects
 				(font
@@ -8497,7 +8497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm"
 			(at 350.52 40.64 0)
 			(effects
 				(font
@@ -9499,7 +9499,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BGS12WN6E6327"
+		(property "Value" "PE4259"
 			(at 122.4981 113.03 0)
 			(effects
 				(font
@@ -9508,7 +9508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_LGA:Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 			(at 119.38 114.3 0)
 			(effects
 				(font
@@ -11369,7 +11369,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "5.1K"
 			(at 71.12 201.93 90)
 			(effects
 				(font
@@ -12598,7 +12598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 177.8 124.46 0)
 			(effects
 				(font
@@ -12872,7 +12872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 91.44 59.69 0)
 			(effects
 				(font
