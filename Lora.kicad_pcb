@@ -12765,7 +12765,7 @@
 	(footprint "foot:Orph letb smol"
 		(layer "F.Cu")
 		(uuid "d6bb4748-610e-4472-a9c5-9b5698a34522")
-		(at 123.138927 98.642666)
+		(at 123.107858 99.210556)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -18916,6 +18916,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "210aeade-6bcc-4586-b242-2a4596790577")
 			(effects
 				(font
